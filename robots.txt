@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://laxylsab.github.io/sitemap/sitemap.txt
